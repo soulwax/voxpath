@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxpath logo"/>
+</p>
+
 # voxpath
 
 High-performance 2D grid pathfinding (A*, Jump Point Search), crowd flow fields, and path smoothing for Dart games.
